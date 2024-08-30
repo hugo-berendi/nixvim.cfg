@@ -3,8 +3,8 @@ _: {
     # General Configuration
     ./settings.nix
     ./keymaps.nix
-    ./auto_cmds.nix
-    ./file_types.nix
+    ./autocmds.nix
+    ./filetypes.nix
 
     # Completion
     # ./plugins/cmp/cmp.nix
